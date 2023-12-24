@@ -3,6 +3,13 @@
 ## Description
 Speed Read is a Chrome extension designed to enhance your reading experience on the web. By bolding the initial characters of each word, Speed Read aims to increase reading speed and efficiency, making web content more accessible and easier to digest.
 
+## Demo
+
+
+https://github.com/henriquemcruz/speedread/assets/31993620/9e4ea062-d843-40a2-91c5-ef8bbd16f0b6
+
+
+
 ## Features
 - Highlights the first 51% of characters in each word.
 - Can be activated for any webpage with text content.
